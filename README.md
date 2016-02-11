@@ -1,2 +1,0 @@
-# datasciencecoursera
-Dat science stuff
